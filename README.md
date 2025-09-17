@@ -2,7 +2,7 @@ Ayurvedic Plant Remedies App
 Remedy suggestions are provided for educational reference only. No guarantee of accuracy or medical efficacy is claimed.
 
 Overview
-This Android application offers users Ayurvedic plant-based remedy suggestions based on Indian state and disease inputs. The app aims to bridge traditional medicinal practices with modern technology, helping users explore classical plant cures tailored to regional availability.
+This Android application offers users Ayurvedic plant-based remedy suggestions based on Indian state and disease inputs. The app aims to bridge traditional medicinal practices with modern technology, helping users explore classical plant cures tailored to regional availability. The application also provides percentage effectiveness by computing overall ADMET scores.
 
 Input: Indian State and Disease (selected from dropdown menus)
 
